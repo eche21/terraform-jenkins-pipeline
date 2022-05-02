@@ -25,7 +25,8 @@ resource "aws_instance" "jjtechweb" {
     tags = local.common_tags
 
 }
-# ne paragraph
+# new paragraph
 resource "aws_alb" "newresource" {
   
 }
+# file ends here
